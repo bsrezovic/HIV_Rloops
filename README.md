@@ -14,3 +14,5 @@ The "code" folder contains;
 
 Random_insertions.R - code for making the random integration sites to compare with actual integration site data along with the code for making the comparison graphs.
 MapInts.R - code for mapping the integration site data we get from the raw sequencing files onto the genome and comparing that data to previous data for rloop positions
+
+The "Graphs" folder contains code relating to various figures included in the paper.
