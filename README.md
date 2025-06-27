@@ -1,4 +1,6 @@
-This folder contains materials and code pertaining to the Rloop/HUV integration sites paper.
+This folder contains materials and code pertaining to paper:
+
+"Aquarius helicase facilitates HIV-1 integration into R-loop enriched genomic regions".
 
 Most of the code is built upon previous work by Maja Kuzman and Dunja Glavaš, and can be found here;
 https://github.com/MaKuzman/IS_mapping
